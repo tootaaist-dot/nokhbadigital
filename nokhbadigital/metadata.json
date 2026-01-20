@@ -1,0 +1,8 @@
+{
+  "name": "نخبة ديجيتال - Nokhbah Digital",
+  "description": "منصة سعودية احترافية للتسويق الرقمي وإدارة الصفحات والإعلانات، مدعومة بالذكاء الاصطناعي وبأسلوب عصري.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
